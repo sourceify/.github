@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/sourceify/.github/main/assets/banner.png"
+    src="https://raw.githubusercontent.com/sourceify/.github/main/assets/banner2.png"
     alt="Sourceify banner"
     width="820"
   />
