@@ -1,73 +1,127 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sourceify/.github/main/assets/banner2.png" alt="Sourceify banner" />
+  <img 
+    src="https://raw.githubusercontent.com/sourceify/.github/main/assets/banner.png"
+    alt="Sourceify banner"
+    width="820"
+  />
 </p>
 
 <h1 align="center">Sourceify</h1>
 
 <p align="center">
-  Projetos open source de <strong>DevOps</strong> e <strong>Cloud</strong>, focados em automação, escalabilidade e colaboração.
+  Open source for <strong>DevOps</strong>, <strong>Containers</strong>, and <strong>Platform Engineering</strong>.
 </p>
 
 ---
 
-## 🚀 Sobre a Sourceify
+## 🚀 About Sourceify
 
-**Sourceify** é uma organização open source focada em criar e manter projetos voltados para **DevOps, Cloud e Infraestrutura Moderna**.
+**Sourceify** is an open-source organization focused on building projects for **DevOps, Containers, and Platform Engineering**, helping teams design, deploy, and operate modern, scalable, cloud-native platforms.
 
-Nosso objetivo é ajudar times e desenvolvedores a construir, implantar e operar sistemas de forma mais simples, confiável e escalável.
-
-Trabalhamos com:
-- Automação de infraestrutura
-- Infraestrutura como Código (IaC)
-- CI/CD
-- Observabilidade
-- Boas práticas de engenharia
+We create tools, automation, and standards that enable teams to:
+- reduce operational complexity
+- standardize environments and pipelines
+- improve developer experience (DevEx)
+- operate platforms reliably and at scale
 
 ---
 
-## 🎯 Missão
+## 🧭 Our Principles
 
-Capacitar desenvolvedores e times de DevOps com soluções open source que simplificam operações em cloud e aceleram a entrega de software com qualidade.
+Sourceify is guided by a few core principles:
 
----
-
-## 🧰 Projetos
-
-Alguns tipos de projetos que você encontrará aqui:
-
-- Ferramentas de automação DevOps
-- Templates e boilerplates para cloud
-- Pipelines CI/CD reutilizáveis
-- Infraestrutura como Código (Terraform, Pulumi, etc.)
-- Utilitários para observabilidade e operações
-
-> 📌 Os projetos ativos ficam listados nos repositórios da organização.
+- **Automation over manual processes**
+- **Platforms treated as products**
+- **Developer Experience (DevEx) as a first-class concern**
+- **Versioned, testable, and reproducible infrastructure**
+- **Open source as a driver of innovation**
 
 ---
 
-## 🤝 Contribuindo
+## 🏗️ Focus Areas
 
-Contribuições são **muito bem-vindas** 🚀  
+Our projects typically cover:
 
-Se você quiser colaborar:
-1. Fork o repositório desejado
-2. Crie sua branch
-3. Envie um Pull Request
-
-Consulte o arquivo `CONTRIBUTING.md` de cada projeto para mais detalhes.
-
----
-
-## 🌍 Comunidade
-
-Quer participar ou acompanhar a Sourceify?
-
-- 💬 Discussions e Issues aqui no GitHub
-- ⭐ Favorite os repositórios para apoiar o projeto
-- 🧑‍💻 Contribua com código, ideias ou documentação
+- 🔧 **DevOps & Infrastructure Automation**
+- 📦 **Containers & Orchestration** (Docker, Kubernetes, etc.)
+- 🏗️ **Platform Engineering & Internal Developer Platforms (IDPs)**
+- ⚙️ **Infrastructure as Code (IaC)**
+- 🔄 **CI/CD, GitOps, and delivery automation**
+- 📊 **Observability, reliability, and operations**
+- 🔐 **Security applied to pipelines and platforms**
 
 ---
 
-## 📜 Licença
+## 👥 Who Is Sourceify For?
 
-Todos os projetos da Sourceify são open source e utilizam licenças permissivas, especificadas em cada repositório.
+Sourceify is built for:
+
+- DevOps Engineers
+- Platform Engineers
+- Site Reliability Engineers (SREs)
+- Developers who run and operate systems
+- Teams adopting cloud-native architectures
+- Anyone interested in learning and contributing to open source
+
+---
+
+## 🧰 Project Types
+
+Within the organization, you’ll find:
+
+- DevOps and platform tooling
+- CLIs and automation utilities
+- Templates and boilerplates (IaC, CI/CD, Kubernetes)
+- Cloud-native architecture examples
+- Observability and operational tooling
+
+> 📌 Active projects are available in the organization’s repositories.
+
+---
+
+## 🗺️ Roadmap (High-Level)
+
+Some themes that guide Sourceify projects:
+
+- Internal Developer Platforms (IDPs)
+- Standardized pipelines and environments
+- GitOps-driven operations
+- Continuous improvement of Developer Experience
+- Observability by default
+
+---
+
+## 🤝 Contributing
+
+Sourceify is community-driven 🚀  
+
+You can contribute by:
+- Writing code
+- Improving documentation
+- Sharing ideas and best practices
+- Reviewing and discussing proposals
+
+Each repository contains its own `CONTRIBUTING.md` with specific guidelines.
+
+---
+
+## 🛡️ Governance & Best Practices
+
+- All projects follow open-source best practices
+- Technical decisions are discussed openly
+- Community feedback is encouraged
+- Each repository defines its maintainers and ownership model
+
+---
+
+## 🌍 Community
+
+- 💬 Use **Issues** and **Discussions** for questions and ideas
+- ⭐ Star repositories to support the project
+- 🧑‍💻 Join the open-source development efforts
+
+---
+
+## 📜 License
+
+All **Sourceify** projects are open source and use permissive licenses, defined individually in each repository.
