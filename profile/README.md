@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sourceify/.github/main/assets/banner.png" alt="Sourceify banner" />
+  <img src="https://raw.githubusercontent.com/sourceify/.github/main/assets/banner2.png" alt="Sourceify banner" />
 </p>
 
 <h1 align="center">Sourceify</h1>
